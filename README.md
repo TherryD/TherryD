@@ -11,9 +11,9 @@
 ---
 
 ### 🚀 Projetos em Destaque
-*   **[REUNIF](https://github.com/TherryD/REUNIF)**: Sistema de gestão em Java.
-*   **[Jogo_Masmorra](https://github.com/TherryD/Jogo_Masmorra)**: Jogo 2D desenvolvido na engine Unity.
-*   **[Atividades no Colab](https://github.com/TherryD/atividades-no-google-colab)**: Estudos em Ciência de Dados e Machine Learning.
+*   **[E-coBot](https://github.com/TherryD/E-coBot)**: Sistema de gestão em Java.
+*   **[Treino_de_Rotas](https://github.com/TherryD/Treino_de_Rotas)**: Jogo 2D desenvolvido na engine Unity.
+*   **[Atividades no Colab](https://github.com/TherryD/Atividades-no-Google-Colab)**: Estudos em Ciência de Dados e Machine Learning.
 
 ---
 
