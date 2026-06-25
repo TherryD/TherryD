@@ -5,8 +5,8 @@
 ---
 
 ### 📊 Estatísticas GitHub
-![ThierryD's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThierryD&show_icons=true&theme=radical&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThierryD&layout=compact&theme=radical&hide_border=true)
+![TherryD's GitHub stats](https://github-readme-stats.vercel.app/api?username=TherryD&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TherryD&layout=compact&theme=radical&hide_border=true)
 
 ---
 
