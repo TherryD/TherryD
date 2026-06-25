@@ -11,9 +11,9 @@
 ---
 
 ### 🚀 Projetos em Destaque
-*   **[REUNIF](https://github.com/ThierryD/REUNIF)**: Sistema de gestão em Java.
-*   **[Jogo_Masmorra](https://github.com/ThierryD/Jogo_Masmorra)**: Jogo 2D desenvolvido na engine Unity.
-*   **[Atividades no Colab](https://github.com/ThierryD/atividades-no-google-colab)**: Estudos em Ciência de Dados e Machine Learning.
+*   **[REUNIF](https://github.com/TherryD/REUNIF)**: Sistema de gestão em Java.
+*   **[Jogo_Masmorra](https://github.com/TherryD/Jogo_Masmorra)**: Jogo 2D desenvolvido na engine Unity.
+*   **[Atividades no Colab](https://github.com/TherryD/atividades-no-google-colab)**: Estudos em Ciência de Dados e Machine Learning.
 
 ---
 
