@@ -3,7 +3,7 @@
 # Olá, eu sou o Thierry 👋
 
 **Estudante de Análise e Desenvolvimento de Sistemas — IFRS Campus Sertão** 🎓  
-Desenvolvimento Mobile (Flutter) • Web Full-Stack • Banco de Dados
+Desenvolvimento Mobile • Web Full-Stack • Banco de Dados
 
 <br/>
 
