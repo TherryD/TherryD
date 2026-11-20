@@ -3,7 +3,7 @@
 # Olá, eu sou o Thierry 👋
 
 **Estudante de Análise e Desenvolvimento de Sistemas — IFRS Campus Sertão** 🎓  
-Desenvolvimento Mobile (`Flutter`), Web Full-Stack, Extensão Tecnológica e Segurança Web3.
+Desenvolvimento Mobile (Flutter) • Web Full-Stack • Projetos de Extensão • Segurança Web3
 
 <br/>
 
@@ -13,24 +13,24 @@ Desenvolvimento Mobile (`Flutter`), Web Full-Stack, Extensão Tecnológica e Seg
 
 ---
 
-### 📱 Projetos Mobile (Flutter)
+### 🚀 Principais Projetos
 
-| Projeto | Descrição |
-| :--- | :--- |
-| **[App Consultoria Política Municipal](https://github.com/TherryD/app_consultoria_politica_municipal)** | Suporte estratégico para campanhas municipais (Estação/RS), com cálculo de quociente eleitoral, orçamento e boas práticas (`DRY`, `YAGNI`, `KISS`). |
-| **[App Offline-First](https://github.com/TherryD/app_offline_first)** | Arquitetura Offline-First com consumo de APIs REST (`ViaCEP` e `JSONPlaceholder`), cache local em SQLite e alternância de tema. |
-| **[App Financeiro](https://github.com/TherryD/app_finaceiro)** | Controle financeiro pessoal com dashboard, metas, histórico de movimentações e resumo por categorias com banco local. |
-| **[NuClone](https://github.com/TherryD/nuclone)** | Clone da interface do aplicativo Nubank desenvolvido em Flutter. |
+| Projeto | Área | Descrição |
+| :--- | :---: | :--- |
+| **[E-coBot](https://github.com/TherryD/E-coBot)** | Extensão | Projeto de extensão voltado à conscientização e descarte correto de resíduos eletrônicos. |
+| **[E-Museu Virtual](https://github.com/hernanicruz/emuseu)** | Web / Colab | Aplicação web para catalogação de itens do museu de lixo eletrônico. |
+| **[App Consultoria Política Municipal](https://github.com/TherryD/app_consultoria_politica_municipal)** | Flutter | Suporte estratégico para campanhas municipais (Estação/RS), com cálculo de quociente eleitoral, orçamento e boas práticas (DRY, YAGNI, KISS). |
+| **[App Offline-First](https://github.com/TherryD/app_offline_first)** | Flutter | Arquitetura Offline-First com consumo de APIs REST (ViaCEP e JSONPlaceholder), cache local em SQLite e alternância de tema. |
+| **[App Financeiro](https://github.com/TherryD/app_finaceiro)** | Flutter | Controle financeiro pessoal com dashboard, metas, histórico de movimentações e resumo por categorias com banco local. |
+| **[Web3 Security Labs](https://github.com/TherryD/web3-security-labs)** | Web3 | Laboratórios de auditoria e testes de segurança em contratos inteligentes (Solidity). |
 
 ---
 
-### 🚀 Outros Projetos & Colaborações
+### 📂 Outros Projetos & Colaborações
 
 | Projeto | Tipo | Descrição |
 | :--- | :---: | :--- |
-| **[E-coBot](https://github.com/TherryD/E-coBot)** | Próprio | Projeto de extensão voltado à conscientização e descarte correto de resíduos eletrônicos. |
-| **[E-Museu Virtual](https://github.com/hernanicruz/emuseu)** | Colaboração | Aplicação web para catalogação de itens do museu de lixo eletrônico. |
-| **[Web3 Security Labs](https://github.com/TherryD/web3-security-labs)** | Próprio | Laboratórios de auditoria e testes de segurança em contratos inteligentes (`Solidity`). |
+| **[NuClone](https://github.com/TherryD/nuclone)** | Próprio | Clone da interface do aplicativo Nubank desenvolvido em Flutter. |
 | **[Pokedex React](https://github.com/TherryD/Pokedex_React)** | Próprio | Aplicação web em React consumindo API de Pokémon. |
 | **[Sistema de Eventos](https://github.com/AugustoMiotto/Sistema-de-Eventos)** | Colaboração | Sistema para gestão e organização de eventos. |
 | **[REUNIF](https://github.com/TherryD/REUNIF)** | Próprio | Projeto desenvolvido durante a graduação no IFRS. |
