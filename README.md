@@ -3,7 +3,7 @@
 # Olá, eu sou o Thierry 👋
 
 **Estudante de Análise e Desenvolvimento de Sistemas — IFRS Campus Sertão** 🎓  
-Desenvolvimento Mobile (Flutter) • Web Full-Stack • Projetos de Extensão • Segurança Web3
+Desenvolvimento Mobile (Flutter) • Web Full-Stack • Banco de Dados
 
 <br/>
 
@@ -17,26 +17,10 @@ Desenvolvimento Mobile (Flutter) • Web Full-Stack • Projetos de Extensão �
 
 | Projeto | Área | Descrição |
 | :--- | :---: | :--- |
-| **[E-coBot](https://github.com/TherryD/E-coBot)** | Extensão | Projeto de extensão voltado à conscientização e descarte correto de resíduos eletrônicos. |
-| **[E-Museu Virtual](https://github.com/hernanicruz/emuseu)** | Web / Colab | Aplicação web para catalogação de itens do museu de lixo eletrônico. |
-| **[App Consultoria Política Municipal](https://github.com/TherryD/app_consultoria_politica_municipal)** | Flutter | Suporte estratégico para campanhas municipais (Estação/RS), com cálculo de quociente eleitoral, orçamento e boas práticas (DRY, YAGNI, KISS). |
-| **[App Offline-First](https://github.com/TherryD/app_offline_first)** | Flutter | Arquitetura Offline-First com consumo de APIs REST (ViaCEP e JSONPlaceholder), cache local em SQLite e alternância de tema. |
 | **[App Financeiro](https://github.com/TherryD/app_finaceiro)** | Flutter | Controle financeiro pessoal com dashboard, metas, histórico de movimentações e resumo por categorias com banco local. |
-| **[Web3 Security Labs](https://github.com/TherryD/web3-security-labs)** | Web3 | Laboratórios de auditoria e testes de segurança em contratos inteligentes (Solidity). |
-
----
-
-### 📂 Outros Projetos & Colaborações
-
-| Projeto | Tipo | Descrição |
-| :--- | :---: | :--- |
-| **[NuClone](https://github.com/TherryD/nuclone)** | Próprio | Clone da interface do aplicativo Nubank desenvolvido em Flutter. |
-| **[Pokedex React](https://github.com/TherryD/Pokedex_React)** | Próprio | Aplicação web em React consumindo API de Pokémon. |
-| **[Sistema de Eventos](https://github.com/AugustoMiotto/Sistema-de-Eventos)** | Colaboração | Sistema para gestão e organização de eventos. |
-| **[REUNIF](https://github.com/TherryD/REUNIF)** | Próprio | Projeto desenvolvido durante a graduação no IFRS. |
-| **[EsquizoCord](https://github.com/JoaoZanelato/EsquizoCord)** / **[Galeria Web](https://github.com/JoaoZanelato/galeria-web)** / **[LittleOnes](https://github.com/JoaoZanelato/LittleOnes)** | Colaborações | Projetos web e colaborativos em equipe. |
-| **[Treino de Rotas](https://github.com/TherryD/Treino_de_Rotas)** & **[Jogo Masmorra](https://github.com/TherryD/Jogo_Masmorra)** | Próprios | Projetos de desenvolvimento de jogos. |
-| **[Atividades no Colab](https://github.com/TherryD/Atividades-no-Google-Colab)** | Próprio | Notebooks de estudos em Ciência de Dados e Machine Learning. |
+| **[Treino de Rotas](https://github.com/TherryD/Treino_de_Rotas)** | Unity | Jogo 2D desenvolvido na engine Unity. |
+| **[EsquizoCord](https://github.com/JoaoZanelato/EsquizoCord)** | Colaboração | Projeto desenvolvido de forma colaborativa em equipe. |
+| **[Galeria Web](https://github.com/JoaoZanelato/galeria-web)** | Web / Colab | Aplicação web colaborativa de galeria. |
 
 ---
 
