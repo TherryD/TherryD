@@ -15,12 +15,12 @@ Desenvolvimento Mobile (Flutter) • Web Full-Stack • Banco de Dados
 
 ### 🚀 Principais Projetos
 
-| Projeto | Área | Descrição |
+| Projeto | Stack | Descrição |
 | :--- | :---: | :--- |
-| **[App Financeiro](https://github.com/TherryD/app_finaceiro)** | Flutter | Controle financeiro pessoal com dashboard, metas, histórico de movimentações e resumo por categorias com banco local. |
-| **[Treino de Rotas](https://github.com/TherryD/Treino_de_Rotas)** | Unity | Jogo 2D desenvolvido na engine Unity. |
-| **[EsquizoCord](https://github.com/JoaoZanelato/EsquizoCord)** | Colaboração | Projeto desenvolvido de forma colaborativa em equipe. |
-| **[Galeria Web](https://github.com/JoaoZanelato/galeria-web)** | Web / Colab | Aplicação web colaborativa de galeria. |
+| **[EsquizoCord](https://github.com/JoaoZanelato/EsquizoCord)** | React & Node.js | Plataforma de comunicação em tempo real inspirada no Discord, com grupos, canais de texto e voz, sistema de cargos/permissões, amizades, notificações, integração com IA e banco SQL. |
+| **[Galeria Web](https://github.com/JoaoZanelato/galeria-web)** | Node.js & EJS | Aplicação web de galeria de imagens com upload via Cloudinary, criação e edição de álbuns, sistema de tags, amizades, compartilhamento e comunicação em tempo real com WebSockets. |
+| **[Treino de Rotas](https://github.com/TherryD/Treino_de_Rotas)** | Node.js & EJS | Sistema web de gerenciamento de anotações com autenticação de usuários, controle de perfil, filtros, seleção múltipla e lixeira, estruturado em arquitetura MVC. |
+| **[App Financeiro](https://github.com/TherryD/app_finaceiro)** | Flutter | Aplicativo mobile de controle financeiro pessoal com dashboard, gestão de metas, histórico de movimentações, resumo por categorias e persistência em banco local. |
 
 ---
 
